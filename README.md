@@ -4,7 +4,7 @@ It's pretty empty, but hopefully I'll share more information with you soon... �
 
 --------------------------------------------------------
 
-🙇 Page visitors counter 🙇
+🙇 Page visit counter 🙇
 
 <img src="https://moe-counter.glitch.me/get/@:notN33T" />
 
