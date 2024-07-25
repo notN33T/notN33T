@@ -1,6 +1,8 @@
 # Hi there 👋
 
-It's pretty empty, but hopefully I'll share more information with you soon... ⏲️
+I'm Software engineer (At least that's what I'm telling myself).<br>
+In my spare time I develop various software with the hope of solving some people's problems.<br>
+There aren't many projects here, but this list is only going to grow 💪
 
 ## My projects:
 
@@ -13,3 +15,4 @@ It's pretty empty, but hopefully I'll share more information with you soon... �
 
 --------------------------------------------------------
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M3100S27)
