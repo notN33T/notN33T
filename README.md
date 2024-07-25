@@ -4,7 +4,7 @@ It's pretty empty, but hopefully I'll share more information with you soon... ‚è
 
 ## My projects:
 
-* [Japanese keyboard website](https://japanese-keyboard.com) -  Allows you to use the Japanese keyboard with hiragana / kitakana / kanji (autocomplete feature).
+* [Japanese keyboard](https://japanese-keyboard.com) -  Allows you to use the Japanese keyboard with hiragana / kitakana / kanji (autocomplete feature) online.
 
 
 ## Open source:
