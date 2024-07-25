@@ -6,7 +6,6 @@ It's pretty empty, but hopefully I'll share more information with you soon... �
 
 * [Japanese keyboard website](https://japanese-keyboard.com) -  Allows you to use the Japanese keyboard with hiragana / kitakana / kanji (autocomplete feature).
 
-🚧 WIP 🚧
 
 ## Open source:
 
