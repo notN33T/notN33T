@@ -6,7 +6,7 @@ There aren't many projects here, but this list is only going to grow 💪
 
 ## My projects:
 
-* [`Japanese keyboard`](https://japanese-keyboard.com) -  Allows you to use the Japanese keyboard with hiragana / kitakana / kanji (autocomplete feature) online.
+* [`Japanese keyboard`](https://japanese-keyboard.com) -  Allows you to use the Japanese keyboard with hiragana / katakana / kanji (autocomplete feature) online.
 
 
 ## Open source:
